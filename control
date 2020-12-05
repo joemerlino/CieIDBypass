@@ -1,0 +1,9 @@
+Package: com.joemerlino.cieidbypass
+Name: CieIDBypass
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Bypass CieID jailbreak detection
+Maintainer: Joe Merlino
+Author: Joe Merlino
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
